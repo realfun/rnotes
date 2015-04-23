@@ -18,7 +18,7 @@ Ads system dissection
     - search log
     - page view
     - social info(TODO: how?)
- * User profile contains attributes bid matches for
+ * User profile contains attributes bid matches for, like keywords, tags, etc.
 
 ### Bids information
   * Some rules that matches attributes of the profile
